@@ -1,0 +1,55 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="2" passed="2">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="22580" started-at="2018-10-28T02:36:24Z" finished-at="2018-10-28T02:36:47Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="22580" started-at="2018-10-28T02:36:24Z" finished-at="2018-10-28T02:36:47Z">
+      <class name="updatedtestcaseswithhddApproach.testcasesWithDDApproch">
+        <test-method status="PASS" signature="initiateDriverInstance()[pri:0, instance:updatedtestcaseswithhddApproach.testcasesWithDDApproch@5442a311]" name="initiateDriverInstance" is-config="true" duration-ms="8433" started-at="2018-10-28T08:06:26Z" finished-at="2018-10-28T08:06:35Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriverInstance -->
+        <test-method status="PASS" signature="TC_001_Validatelogin(java.lang.String, java.lang.String)[pri:0, instance:updatedtestcaseswithhddApproach.testcasesWithDDApproch@5442a311]" name="TC_001_Validatelogin" duration-ms="1730" started-at="2018-10-28T08:06:35Z" data-provider="Excel" finished-at="2018-10-28T08:06:36Z">
+          <params>
+            <param index="0">
+              <value>
+                <![CDATA[Test12345]]>
+              </value>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_001_Validatelogin -->
+        <test-method status="PASS" signature="closeDriverInstance()[pri:0, instance:updatedtestcaseswithhddApproach.testcasesWithDDApproch@5442a311]" name="closeDriverInstance" is-config="true" duration-ms="1455" started-at="2018-10-28T08:06:36Z" finished-at="2018-10-28T08:06:38Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverInstance -->
+        <test-method status="PASS" signature="initiateDriverInstance()[pri:0, instance:updatedtestcaseswithhddApproach.testcasesWithDDApproch@5442a311]" name="initiateDriverInstance" is-config="true" duration-ms="6191" started-at="2018-10-28T08:06:38Z" finished-at="2018-10-28T08:06:44Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- initiateDriverInstance -->
+        <test-method status="PASS" signature="TC_001_Validatelogin(java.lang.String, java.lang.String)[pri:0, instance:updatedtestcaseswithhddApproach.testcasesWithDDApproch@5442a311]" name="TC_001_Validatelogin" duration-ms="1621" started-at="2018-10-28T08:06:44Z" data-provider="Excel" finished-at="2018-10-28T08:06:46Z">
+          <params>
+            <param index="0">
+              <value is-null="true"/>
+            </param>
+            <param index="1">
+              <value is-null="true"/>
+            </param>
+          </params>
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- TC_001_Validatelogin -->
+        <test-method status="PASS" signature="closeDriverInstance()[pri:0, instance:updatedtestcaseswithhddApproach.testcasesWithDDApproch@5442a311]" name="closeDriverInstance" is-config="true" duration-ms="1077" started-at="2018-10-28T08:06:46Z" finished-at="2018-10-28T08:06:47Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- closeDriverInstance -->
+      </class> <!-- updatedtestcaseswithhddApproach.testcasesWithDDApproch -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
